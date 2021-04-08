@@ -2,7 +2,7 @@
 	"homepage": "http://codemaoz90.github.io/IT_ACADEMY_SP8_JOKE_APP/",
 	"name": "prova_react",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.9",
 		"@testing-library/react": "^11.2.5",
